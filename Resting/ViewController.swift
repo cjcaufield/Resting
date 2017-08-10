@@ -15,11 +15,13 @@ class ViewController: UIViewController {
     var posts = [Post]()
     
     override func viewDidLoad() {
-        
+
+        /*
         self.testGetPost()
         self.testPutPost()
         self.testPostPost()
         self.testDeletePost()
+        */
     }
     
     func printPosts() {
